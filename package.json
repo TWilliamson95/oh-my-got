@@ -1,5 +1,5 @@
 {
-  "name": "oh-my-got",
+  "name": "oh-my-got-so-simple",
   "version": "1.0.2",
   "description": "\"An extension to the got library, with standardised configuration\"",
   "main": "dist/index.js",
