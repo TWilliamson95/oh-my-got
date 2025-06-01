@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+
+.npmrc
+**/*.js
+**/*.js.map
+**/*.d.ts
+**/*.tgz
+.DS_Store

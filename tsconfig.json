@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2015",                          
+    "module": "commonjs",                    
+    "lib": ["es6"],
+    "sourceMap": true,        
+    "allowJs": true,
+    "outDir": "./dist",                          
+    "rootDir": "./src",
+    "strict": true,         
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*"],
+  "exclude": [
+    "*.*",
+    "dist/",
+    "tests/",
+    "node_modules/"
+  ],
+}

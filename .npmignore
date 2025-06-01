@@ -1,0 +1,11 @@
+# folders
+coverage/
+tests/
+
+# files
+src/
+**/*.ts
+!dist/*.d.ts
+tsconfig.json
+**/*.tgz
+.gitignore
